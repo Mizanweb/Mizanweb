@@ -1,8 +1,7 @@
 ### Hi there 👋I am  Mizanur Rahman Chowdhury
 ####WEb Designer and Developer
 
-<img src="![Green and Blue Gradient Shapes Corporate Technology Website Photo Facebook Cover](https://user-images.githubusercontent.com/122829513/212766896-9d04b06b-11ed-4199-8900-2fae15750239.png)
-"/>
+<img src="![Green and Blue Gradient Shapes Corporate Technology Website Photo Facebook Cover](https://user-images.githubusercontent.com/122829513/212766896-9d04b06b-11ed-4199-8900-2fae15750239.png)"/>
 
 **Mizanweb/Mizanweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
